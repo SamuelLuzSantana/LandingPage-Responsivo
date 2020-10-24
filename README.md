@@ -1,2 +1,3 @@
 # LandingPage-Tarde
-Projeto LandingPage criada com a turma de Dev, SENAI de Informática 2s/2020
+Projeto de Landing Page para estudo de responsividade, agora no modo tablet
+
